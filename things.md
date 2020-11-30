@@ -1,0 +1,1 @@
+breds,potato,carrot,salt,chilly poweder,butter,tomato chas,onion,oil.
